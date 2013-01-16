@@ -1,0 +1,12 @@
+
+body{font-size: 12pt}
+
+#siteContainer{width: auto}
+
+div#menu, div#links, div#header, div#divZoom, div#footer, div#pageContainer, div.tabbernav, div.tabbertabhide, h2{display:none}
+
+div{position: static;float: none}
+
+body,div#container,div#header{background: none #FFF;color: #000}
+
+a[href]:after{content: “(” attr(href) “)”}

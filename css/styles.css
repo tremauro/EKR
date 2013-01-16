@@ -1,0 +1,2003 @@
+.Paragraph__porta_cella
+{
+font-family: 'Arial', sans-serif;
+display: none;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__porta_box_ancorato
+{
+font-family: 'Arial', sans-serif;
+display: none;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__porta_box_in_flusso
+{
+font-family: 'Arial', sans-serif;
+display: none;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__porta_box_nel_flusso_di_testo
+{
+font-family: 'Arial', sans-serif;
+display: none;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__porta_tabella
+{
+font-family: 'Arial', sans-serif;
+display: none;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__NomePagina
+{
+font-family: 'Minion Pro', sans-serif;
+display: none;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Etichetta_nera
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.5em;
+text-transform:uppercase;
+color: #a3a3a3;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Scheda_tecnica__Dato_centrato_grassetto
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.56em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Scheda_tecnica__Dato_grassetto
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.62em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Scheda_tecnica__Dato_centrato
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.56em;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Scheda_tecnica__Dato_destra
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.56em;
+color: #000000;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Specifica__Scheda_tecnica__Dato_destro_grassetto
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.56em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Specifica
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Revisione
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Descrizione
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Codice_standard
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Data
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Motivo_revisione
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Complessita_tecnica
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Generali__Codice
+{
+font-family: 'Arial', sans-serif;
+display: none;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Preparazione__Documento
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Preparazione__Istruzioni
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.87em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0.17em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Preparazione__Nome
+{
+font-family: 'Arial', sans-serif;
+font-size: 2.25em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Preparazione__Immagine_descrittiva
+{
+font-family: 'Minion Pro', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Assemblaggio__Nome
+{
+font-family: 'Arial', sans-serif;
+font-size: 2.25em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Assemblaggio__Documento
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Assemblaggio__Istruzioni
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.87em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0.17em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Collaudo__Nome
+{
+font-family: 'Arial', sans-serif;
+font-size: 2.25em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: center;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Collaudo__Istruzioni
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.87em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0.17em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Collaudo__Documento
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: right;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Tabella_fasi__Tabella_fasi__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Tabella_fasi__Tabella_fasi__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Fasi__Imballaggio__Documento
+{
+font-family: 'Minion Pro', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Datafeedback__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Datafeedback__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Frequenza__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Frequenza__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Selettori__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Selettori__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Joystick__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Joystick__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Pannelli__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Pannelli__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Cabl_TU__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Cabl_TU__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Opz_TU__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Opz_TU__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Cabl_RU__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Cabl_RU__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Ricevente__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Ricevente__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Filocomando__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Filocomando__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Antenna__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Antenna__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Caricabatterie__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Caricabatterie__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Batteria__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Batteria__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Accessori__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Accessori__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Fresa__Tabella_configuratore__etichetta
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+text-transform:uppercase;
+color: #ffffff;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Configuratore__Tabella_configuratore_Fresa__Tabella_configuratore__valore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Note__Note_interne
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Note__Note_commessa
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Note__Attivazione_commessa
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Operatori__Preparatore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Operatori__Verificatore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Operatori__Approvatore
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.75em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Stili_BLANK_di_BLANK_base__Codice
+{
+font-family: 'Arial', sans-serif;
+font-size: 1.12em;
+font-weight: bold;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Paragraph__Stili_BLANK_di_BLANK_base__Dato_sinistra
+{
+font-family: 'Arial', sans-serif;
+font-size: 0.56em;
+color: #000000;
+line-height:1.2;
+text-align: left;
+margin-top:0em;
+margin-bottom:0em;
+padding-left:0em;
+padding-right:0em;
+text-indent:0em;
+}
+
+
+.Character__LINK_CONTENT
+{
+}
+
+
+.Character__LINK_URL
+{
+}
+
+
+.Character__LINK_TARGET
+{
+}
+
+
+.Cell__Generali__Data
+{
+border-style:solid;
+background-color:#ffff00;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore__Default
+{
+border-style:solid;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Impianto__Tabella_configuratore_Impianto__Default
+{
+border-style:solid;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Datafeedback__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Datafeedback__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Frequenza__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Frequenza__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Selettori__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Selettori__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Joystick__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Joystick__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Pannelli__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Pannelli__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Cabl_TU__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Cabl_TU__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Opz_TU__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Opz_TU__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Cabl_RU__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Cabl_RU__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Ricevente__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Ricevente__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Filocomando__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Filocomando__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Antenna__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Antenna__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Caricabatterie__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Caricabatterie__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Batteria__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Batteria__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Accessori__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Accessori__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Fresa__Tabella_configuratore__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Configuratore__Tabella_configuratore_Fresa__Tabella_configuratore__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Fasi__Preparazione__Nome
+{
+border-style:solid;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+}
+
+
+.Cell__Fasi__Tabella_fasi__Tabella_fasi__Default
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Fasi__Tabella_fasi__Tabella_fasi__Cella_etichetta
+{
+border-style:solid;
+background-color:#a3a3a3;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#000000;
+border-right-color:#000000;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Cell__Fasi__Tabella_fasi__Tabella_fasi__Cella_valore
+{
+border-style:solid;
+border-top-width:0.07em;
+border-bottom-width:0.07em;
+border-left-width:0.07em;
+border-right-width:0.07em;
+border-top-color:#a3a3a3;
+border-bottom-color:#a3a3a3;
+border-left-color:#a3a3a3;
+border-right-color:#a3a3a3;
+padding-top: 0.12em;
+padding-bottom: 0.12em;
+padding-left: 0.12em;
+padding-right: 0.12em;
+}
+
+
+.Object__Fasi__Preparazione__Immagine_descrittiva
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Fasi__Preparazione__Immagine_descrittiva__Immagine
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Fasi__Collaudo__Immagine_descrittiva
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Fasi__Collaudo__Immagine_descrittiva__Immagine
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Fasi__Assemblaggio__Immagine_descrittiva
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Fasi__Assemblaggio__Immagine_descrittiva__Immagine
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Generali__Serie_immagine
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Generali__Immagine_layout_TU
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Generali__Immagine_cablaggio_TU
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Generali__Immagine_MRI
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Generali__Immagine_cablaggio_RU
+{
+border-style:solid;
+border-color:#000000;
+border-width:0.07em;
+
+}
+
+
+.Object__Generali__Serie_immagine__Immagine
+{
+
+}
+
+
+.Object__Generali__Immagine_layout_TU__Immagine
+{
+
+}
+
+
+.Object__Generali__Immagine_cablaggio_TU__Immagine
+{
+
+}
+
+
+.Object__Generali__Immagine_cablaggio_RU__Immagine
+{
+
+}
+
+
+.Object__Generali__Immagine_MRI__Immagine
+{
+
+}
+
+
+.Object__Stili_BLANK_base__Immagine
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Specifica__Immagine
+{
+
+}
+
+
+.Object__etichetta
+{
+background-color:#a3a3a3;
+border-style:solid;
+border-color:#000000;
+border-width:0.07em;
+padding-top:0.17em;
+padding-bottom:0.17em;
+padding-right:0.17em;
+padding-left:0.17em;
+
+}
+
+
+.Object__dato
+{
+border-style:solid;
+border-color:#a3a3a3;
+border-width:0.07em;
+padding-top:0.17em;
+padding-bottom:0.17em;
+padding-right:0.17em;
+padding-left:0.17em;
+
+}
+
+
+.Object__COMPOUND_PAGE_NAME
+{
+border-style:solid;
+border-width:0em;
+
+}
+
+
+.Object__Dato_destro_grassetto
+{
+border-style:solid;
+border-width:0em;
+
+}

@@ -1,0 +1,82 @@
+.page
+{
+	background-color:#ffffff;
+	text-shadow: none;
+  border: solid gray 1px;
+}
+
+.layoutCell
+{
+	display:inline;
+	float:left;
+}
+
+.mainLayoutCellOfFloatingBox
+{
+	/*come layout cell ma senza display e float che dà problemi con safari se layout cell è dentro un floating box*/
+	padding: 0;
+	margin: 0;
+}
+
+.imageAnchoredBox
+{
+	position: absolute; 
+	display: block; 
+	clip: auto;
+}
+
+.page table
+{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.page table a
+{ 
+	text-decoration:none;
+}
+
+
+.floating_box
+{
+	width:100%;
+	  
+	/* Firefox */
+	display:-moz-box;
+	-moz-box-orient:horizontal;
+	-moz-box-pack:center;
+	-moz-box-align:center;
+	
+	/* Safari and Chrome */
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	-webkit-box-pack:center;
+	-webkit-box-align:center;
+	
+	/* W3C 
+	display:box;
+	box-orient: horizontal;
+	box-pack: center;
+	box-align: center;*/
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.langsContainer{
+	text-align: center;
+}
+
+
+.langLink{
+	font-size: 0.7em;
+}
+
+a.langLink:link {color:#666666;}
+a.langLink:visited {color:#666666;}
+a.langLink:hover {color:#FF0000;}
+a.langLink:active {color:#FF0000;}
+
+
